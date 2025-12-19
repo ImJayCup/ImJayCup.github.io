@@ -1,0 +1,9 @@
+title: "Jacob (Jay) Yuzovitskiy"
+description: "Math • Physics • Astronomy — research notes, posters, teaching"
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+
+show_downloads: false
+logo: /assets/img/avatar.png  # optional (add later)
